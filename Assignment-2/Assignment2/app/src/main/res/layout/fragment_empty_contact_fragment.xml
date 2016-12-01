@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.varun.assignment2.empty_contact_fragment"
+    android:id="@+id/empty_fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="THERE ARE NO CONTACTS TO DISPLAY"
+        android:textSize="30dp"
+        android:id="@+id/empty_text"/>
+
+</FrameLayout>
